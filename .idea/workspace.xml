@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/WorkSpace/MQLearn" value="PREVIEW" />
+        <entry key="E:/WorkSpace/pay_demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ctego-trade-srv-release-dev" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hubsw-business" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hubsw-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../interface-idempotence-demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../lonntec-java-tools-develop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-cloud-learn" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-webservice-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="115" />
+    <option name="y" value="275" />
+    <option name="width" value="1935" />
+    <option name="height" value="878" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+</project>
